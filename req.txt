@@ -1,0 +1,7 @@
+install pip
+install virtualenv
+create virtualenv
+activate virtualenv
+install jupyterlab
+install pandas
+install matplotlib
